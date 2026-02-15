@@ -8,7 +8,8 @@ This project is a web-based implementation of an Online Banking System. The inte
 ## Domain
 FinTech / Banking
 
-## Description: This project implements the web interface for an Online Banking System as proposed in the research paper, featuring a secure login, user dashboard, fund transfer, and bill payment functionalities.
+## Description: 
+This project implements the web interface for an Online Banking System as proposed in the research paper, featuring a secure login, user dashboard, fund transfer, and bill payment functionalities.
 
 ## Features
 * **Login Interface:** Secure entry point for users.
